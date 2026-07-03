@@ -24,7 +24,7 @@ Chromix is a premium, offline water/bottle sort puzzle game built with Flutter. 
 
 ---
 
-## 🧠 Core Algorithms & Technical Details
+## 🧠 Algorithms & Technical Details
 
 ### 1. Hint Solver (BFS & A* Search)
 To solve the bottle configurations efficiently without lagging the UI thread:
